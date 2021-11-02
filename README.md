@@ -30,7 +30,7 @@ https://github.com/zainulabedeen2/SQLinjection/blob/main/task%201.png
 	4. Run this location on browser
 https://github.com/zainulabedeen2/SQLinjection/blob/main/task%202.2.png
 
-###--> Task 2.3	
+### --> Task 2.3	
 	inject statment to append a row to current database:
 //code	
 	INSERT INTO credential (name,eid) VALUES('Waleed', '17422');
